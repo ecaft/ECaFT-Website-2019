@@ -1,162 +1,97 @@
 <!-- python -m http.server; http://localhost:8000 -->
+<?php
+$title = "Career Fair";
+?>
 <!DOCTYPE html>
 <html>
-   <head>
-      <title>ECaFT &mdash; Career Fair</title>
-      <link rel="stylesheet" href="css/bootstrap.min.css">
-      <link rel="stylesheet" href="css/style.css">
-      <link rel="stylesheet" href="css/style-responsive.css">
-      <link rel="stylesheet" href="css/animate.min.css">
-      <link rel="stylesheet" href="css/vertical-rhythm.min.css">
-      <link rel="stylesheet" href="css/owl.carousel.css">
-      <link rel="stylesheet" href="css/magnific-popup.css">
-   </head>
-   <body class="appear-animate">
-      <!-- Page Loader -->
-      <div class="page-loader">
-         <div class="loader">Loading...</div>
-      </div>
-      <!-- End Page Loader -->
-      <!-- Navigation panel -->
-      <nav class="main-nav js-stick">
-         <div class="full-wrapper relative clearfix">
-            <!-- Logo ( * your text or image into link tag *) -->
-            <div class="nav-logo-wrap local-scroll">
-               <a href="mp-index.html" class="logo">
-               <img src="images/logo-dark.png" alt="" />
-               </a>
-            </div>
-            <div class="mobile-nav">
-               <i class="fa fa-bars"></i>
-            </div>
-            <!-- Main Menu -->
-            <div class="inner-nav desktop-nav">
-               <ul class="clearlist">
-                  <!-- Item With Sub -->
-                  <li>
-                     <a href="#" class="mn-has-sub">About </a>
-                  </li>
-                  <!-- End Item With Sub -->
-                  <!-- Item With Sub -->
-                  <li>
-                     <a href="#" class="mn-has-sub">Career Fair <i class="fa fa-angle-down"></i></a>
-                     <!-- Sub -->
-                     <ul class="mn-sub">
-                        <li>
-                           <a href="#" class="mn-has-sub">Employers</a>
-                           <a href="#" class="mn-has-sub">Students</i></a>
-                        </li>
-                     </ul>
-                     <!-- End Sub -->
-                  </li>
-                  <!-- End Item With Sub -->
-                  <!-- Item With Sub -->
-                  <li>
-                     <a href="#" class="mn-has-sub">Project Showcase </a>
-                  </li>
-                  <!-- End Item With Sub -->
-                  <!-- Item With Sub -->
-                  <li>
-                     <a href="#" class="mn-has-sub">Other Events </a>
-                  </li>
-                  <!-- End Item With Sub -->
-                  <!-- Divider -->
-                  <li><a>&nbsp;</a></li>
-                  <!-- End Divider -->
-                  <!-- Search -->
-                  <li>
-                     <a href="#" class="mn-has-sub"><i class="fa fa-search"></i> Search</a>
-                     <ul class="mn-sub">
-                        <li>
-                           <div class="mn-wrap">
-                              <form method="post" class="form">
-                                 <div class="search-wrap">
-                                    <button class="search-button animate" type="submit" title="Start Search">
-                                    <i class="fa fa-search"></i>
-                                    </button>
-                                    <input type="text" class="form-control search-field" placeholder="Search...">
-                                 </div>
-                              </form>
-                           </div>
-                        </li>
-                     </ul>
-                  </li>
-                  <!-- End Search -->
-               </ul>
-            </div>
-            <!-- End Main Menu -->
-         </div>
-      </nav>
-      <!-- End Navigation panel -->
-      <!-- Head Section -->
-      <section class="small-section bg-dark-lighter">
-         <div class="relative container align-left">
-            <div class="row">
-               <div class="col-md-8">
-                  <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Employer Information Career Fair</h1>
-               </div>
-            </div>
-         </div>
-      </section>
-      <!-- End Head Section -->
-      <section class="small-section">
-         <div class="relative container align-left">
-            <div class="row">
-               <div class="col-md-8">
-                  <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">WELCOME EMPLOYERS TO THE ENGINEERING AND TECHNICAL CAREER FAIR!</h1>
-                  <div class="hs-line-4 font-alt black">
-                     The Cornell Engineering Career Fair Team welcomes you to Cornell! We hope you find your visit enjoyable. Please feel free to reach out to us at ecaft@cornell.edu if you have any questions.
-                  </div>
-               </div>
-               <div class="relative container align-right">
-                  <div class="mt-40">
-                     <a href="#" class="btn btn-mod btn-large btn-round" display: inline-block
-                        target="#">Register for the Career Fair</a>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-      <!-- Divider -->
-      <hr class="mb-70 mb-xs-30"/>
-      <!-- End Divider -->
-      <h2 class="section-title font-alt">
-         Shipping Address
-      </h2>
-      <div class="container relative">
-         <!-- Row -->
+
+<head>
+   <title>ECaFT &mdash; Career Fair</title>
+   <link rel="stylesheet" href="css/bootstrap.min.css">
+   <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/style-responsive.css">
+   <link rel="stylesheet" href="css/animate.min.css">
+   <link rel="stylesheet" href="css/vertical-rhythm.min.css">
+   <link rel="stylesheet" href="css/owl.carousel.css">
+   <link rel="stylesheet" href="css/magnific-popup.css">
+</head>
+
+<body class="appear-animate">
+   <!-- Page Loader -->
+   <div class="page-loader">
+      <div class="loader">Loading...</div>
+   </div>
+   <!-- End Page Loader -->
+   <!-- Navigation panel -->
+   <?php include("includes/navbar.php") ?>
+   <!-- Head Section -->
+   <section class="small-section bg-dark-lighter">
+      <div class="relative container align-left">
          <div class="row">
-            <div class="col-sm-12 body">
-               <div class="align-center">
-                  <div class="alt-features-descr align-left">
-                     <p>Materials must reach the address below by Friday, February 2, 2020. We cannot guarantee that materials received after this date, shipped to an address other than the storage facility, or not marked as indicated will be available for use at the Career Fair.</p>
-                     <div class="well well-lg">
-                        <div class = "align-left col-md-7 mb-sm-40">
-                           <span class="icon-map fa-lg" style="font-size: 20rem;"></span>
-                        </div>
-                        <div class="text-center align-right col-lg-offset-1">
-                           <p>ECAFT CAREER FAIR 2020 [February 7, 2020]</p>
-                           <p>Attn: George Wood</p>
-                           <p>Cornell Recycle Center</p>
-                           <p>251 Solidage Rd.</p>
-                           <p>Ithaca, NY 14850</p>
-                        </div>
-                     </div>
-                     <p><b>IMPORTANT NOTE: Please write 2020 Spring Engineering and Technical Career Fair on all your packages. This will ensure that all packages are directed to the correct storage facility. The COMPANY NAME and CAREER FAIR DATE must also be included on each piece. We use the information marked on the outside of your package to locate packages and to ensure that materials are delivered to the correct booth, and for the correct event. We suggest packing return shipping labels in boxes. Packages will be delivered to Barton Hall by 7:00am the day of the fair.</b></p>
-                     <h3>Return Shipping</h3>
-                     <p>UPS and FedEx will be picking up packages from Barton Hall after the fair at <b>3:30pm</b>. Please refer to the shipping company websites for instructions of how to prepare your boxes for shipping. There are different requirements based on size of the box as well as desired speed of shipment. Please complete your prepaid shipping label according to these requirements; this will make sure that we can easily return your packages to you. For proper shipment, your packages must be securely closed with the prepaid labels accurately filled out and firmly affixed.</p>
-                  </div>
+            <div class="col-md-8">
+               <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Employer Information Career Fair</h1>
+            </div>
+         </div>
+      </div>
+   </section>
+   <!-- End Head Section -->
+   <section class="small-section">
+      <div class="relative container align-left">
+         <div class="row">
+            <div class="col-md-8">
+               <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">WELCOME EMPLOYERS TO THE ENGINEERING AND TECHNICAL CAREER FAIR!</h1>
+               <div class="hs-line-4 font-alt black">
+                  The Cornell Engineering Career Fair Team welcomes you to Cornell! We hope you find your visit enjoyable. Please feel free to reach out to us at ecaft@cornell.edu if you have any questions.
+               </div>
+            </div>
+            <div class="relative container align-right">
+               <div class="mt-40">
+                  <a href="#" class="btn btn-mod btn-large btn-round" display: inline-block target="#">Register for the Career Fair</a>
                </div>
             </div>
          </div>
       </div>
-      <!-- Divider -->
-      <hr class="mb-70 mb-xs-30"/>
-      <!-- End Divider -->
-      <h3 class="section-title font-alt">
-         Schedule
-      </h3>
-      <div class="container relative">
+   </section>
+   <!-- Divider -->
+   <hr class="mb-70 mb-xs-30" />
+   <!-- End Divider -->
+   <h2 class="section-title font-alt">
+      Shipping Address
+   </h2>
+   <div class="container relative">
+      <!-- Row -->
+      <div class="row">
+         <div class="col-sm-12 body">
+            <div class="align-center">
+               <div class="alt-features-descr align-left">
+                  <p>Materials must reach the address below by Friday, February 2, 2020. We cannot guarantee that materials received after this date, shipped to an address other than the storage facility, or not marked as indicated will be available for use at the Career Fair.</p>
+                  <div class="well well-lg">
+                     <div class="align-left col-md-7 mb-sm-40">
+                        <span class="icon-map fa-lg" style="font-size: 20rem;"></span>
+                     </div>
+                     <div class="text-center align-right col-lg-offset-1">
+                        <p>ECAFT CAREER FAIR 2020 [February 7, 2020]</p>
+                        <p>Attn: George Wood</p>
+                        <p>Cornell Recycle Center</p>
+                        <p>251 Solidage Rd.</p>
+                        <p>Ithaca, NY 14850</p>
+                     </div>
+                  </div>
+                  <p><b>IMPORTANT NOTE: Please write 2020 Spring Engineering and Technical Career Fair on all your packages. This will ensure that all packages are directed to the correct storage facility. The COMPANY NAME and CAREER FAIR DATE must also be included on each piece. We use the information marked on the outside of your package to locate packages and to ensure that materials are delivered to the correct booth, and for the correct event. We suggest packing return shipping labels in boxes. Packages will be delivered to Barton Hall by 7:00am the day of the fair.</b></p>
+                  <h3>Return Shipping</h3>
+                  <p>UPS and FedEx will be picking up packages from Barton Hall after the fair at <b>3:30pm</b>. Please refer to the shipping company websites for instructions of how to prepare your boxes for shipping. There are different requirements based on size of the box as well as desired speed of shipment. Please complete your prepaid shipping label according to these requirements; this will make sure that we can easily return your packages to you. For proper shipment, your packages must be securely closed with the prepaid labels accurately filled out and firmly affixed.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <!-- Divider -->
+   <hr class="mb-70 mb-xs-30" />
+   <!-- End Divider -->
+   <h3 class="section-title font-alt">
+      Schedule
+   </h3>
+   <div class="container relative">
       <!-- Row -->
       <div class="row">
          <!-- Col -->
@@ -173,16 +108,16 @@
          <div class="col-sm-40 mb-40">
             <div class="text">
                <h5 class="uppercase">Event</h5>
-               <p> Registration begins in Barton Hall.  Come get Breakfast before the fair starts! </p>
-               <p> Registration begins in Barton Hall.  Come get Breakfast before the fair starts! </p>
-               <p> Registration begins in Barton Hall.  Come get Breakfast before the fair starts! </p>
+               <p> Registration begins in Barton Hall. Come get Breakfast before the fair starts! </p>
+               <p> Registration begins in Barton Hall. Come get Breakfast before the fair starts! </p>
+               <p> Registration begins in Barton Hall. Come get Breakfast before the fair starts! </p>
             </div>
          </div>
          <!-- End Col -->
       </div>
       <!-- Row -->
       <div class="row">
-         <div class="col-sm-12 body" >
+         <div class="col-sm-12 body">
             <div class="works">
                <p>There are two entrances to the Barton Hall (the Career Fair location). One side is for students (the Statler side) and the other side is for recruiters (Teagle side); there will be signs around the Cornell campus which will direct you to the correct entrance. Hotel shuttles (if available) have already been instructed to drop you off at the Teagle entrance. When you check-in to your hotels, please notify them that you will be requiring shuttle service and arrange a time to go to the career fair.</p>
                <p>If you are driving from your hotel to the career fair, please note that you can drop off any packages you have at the Teagle entrance and then drive to a parking garage (<a href="https://ipp.cornell.edu/content/parking-0">parking information</a>). When you check-in, you will be led to your table and will have to fill out a form which a volunteer will later pick up.</p>
@@ -192,7 +127,7 @@
          <!-- End Row -->
       </div>
       <!-- Divider -->
-      <hr class="mb-70 mb-xs-30"/>
+      <hr class="mb-70 mb-xs-30" />
       <!-- End Divider -->
       <h4 class="section-title font-alt">
          Travel Accommodations/Dinning
@@ -208,7 +143,7 @@
                <hr class="mb-40" />
                <hr style="border: 0.1px solid#D3D3D3;" />
                <h2>Parking</h2>
-               <p>We will have approximently 100 parking permits avaible.  However,
+               <p>We will have approximently 100 parking permits avaible. However,
                   we recommend the use of shuttle services made available by your hotel for your convenience. For specific information regarding parking, please refer to <a href="http://www.cornell.edu/visit/">Cornell's Vistor page</a>.
                </p>
                <hr class="mb-40" />
@@ -357,5 +292,6 @@
       <script type="text/javascript" src="js/contact-form.js"></script>
       <script type="text/javascript" src="js/jquery.ajaxchimp.min.js"></script>
       <!--[if lt IE 10]><script type="text/javascript" src="js/placeholder.js"></script><![endif]-->
-   </body>
+</body>
+
 </html>
