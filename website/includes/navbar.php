@@ -9,7 +9,7 @@ if ($title == "Home") { ?>
     <div class="full-wrapper relative clearfix">
       <!-- Logo ( * your text or image into link tag *) -->
       <div class="nav-logo-wrap local-scroll">
-        <a href="index.html" class="logo">
+        <a href="index.php" class="logo">
           <img src="images/ecaft_logo.png" alt="ecaft logo" />
         </a>
       </div>
@@ -26,10 +26,10 @@ if ($title == "Home") { ?>
             <li><a href="index.php">Home</a></li>
           <?php }
         if ($title == "About") { ?>
-            <li><a class="active" href="#">About</a></li>
+            <li><a class="active" href="about.php">About</a></li>
           <?php
         } else { ?>
-            <li><a href="#">About</a></li>
+            <li><a href="about.php">About</a></li>
           <?php }
         if ($title == "Career Fair") { ?>
             <!--Item With Sub -->
