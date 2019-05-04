@@ -69,7 +69,7 @@ $title = "Home";
                 <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
                     We are the Engineering Career Fair Team
 
-                    <a href="#" class="section-more right">More about us <i class="fa fa-angle-right"></i></a>
+                    <a href="about.php" class="section-more right">More about us <i class="fa fa-angle-right"></i></a>
 
                 </h2>
 
@@ -232,7 +232,7 @@ $title = "Home";
                                 <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30" style="width:50%;">
                                     <div>ECaFT's largest networking event, the Spring Career Fair offers recruiters the chance to meet Cornell's brightest and students the chance to find career opportunities with over 150 employers.</div>
                                     <div style="text-align: left">
-                                        <a href="pages-services-1.html" style="text-align: left" class="section-more font-alt">More about the Career Fair <i class="fa fa-angle-right"></i></a>
+                                        <a href="careerFair.php" style="text-align: left" class="section-more font-alt">More about the Career Fair <i class="fa fa-angle-right"></i></a>
                                     </div>
                                 </div>
 
@@ -302,7 +302,7 @@ $title = "Home";
                                 <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30" style="width:50%;">
                                     <div>Also known as the "reverse career fair", the Project Showcase offers recruiters the chance to learn about the impressive projects undertaken by Cornell Engineers and the bright minds behind them. </div>
                                     <div style="text-align: left">
-                                        <a href="pages-services-1.html" style="text-align: left" class="section-more font-alt">More about the Project Showcase <i class="fa fa-angle-right"></i></a>
+                                        <a href="showcase.php" style="text-align: left" class="section-more font-alt">More about the Project Showcase <i class="fa fa-angle-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -370,7 +370,7 @@ $title = "Home";
                                 <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30" style="width:50%;">
                                     <div>In addition to the career fair and the project showcase, we offer students many other opportunities to showcase their projects and receive professional development help. Some of the other events we plan include Robotics Day, Free Headshots, Resume Workshops, and the Project Team Fest. </div>
                                     <div style="text-align: left">
-                                        <a href="pages-services-1.html" style="text-align: left" class="section-more font-alt">More about other events <i class="fa fa-angle-right"></i></a>
+                                        <a href="events.php" style="text-align: left" class="section-more font-alt">More about other events <i class="fa fa-angle-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -395,7 +395,7 @@ $title = "Home";
                 <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
                     Upcoming Events
 
-                    <a href="blog-classic-sidebar-right.html" class="section-more right">All Events<i class="fa fa-angle-right"></i></a>
+                    <a href="events.php" class="section-more right">All Events<i class="fa fa-angle-right"></i></a>
 
                 </h2>
 
@@ -405,30 +405,25 @@ $title = "Home";
                     <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s">
 
                         <div class="post-prev-img">
-                            <a href="blog-single-sidebar-right.html"><img src="images/blog/post-prev-1.jpg" alt="" /></a>
+                            <a href=""><img src="baja.jpg" alt="" /></a>
                         </div>
 
                         <div class="post-prev-title font-alt">
-                            <a href="">New Web Design Trends</a>
+                            <a href="">Fall Project Showcase</a>
                         </div>
 
                         <div class="post-prev-info font-alt">
-                            <a href="">John Doe</a> | 10 December
+                            <a href="">Duffield Hall</a> | 10 September
                         </div>
 
                         <div class="post-prev-text">
-                            Maecenas volutpat, diam enim sagittis quam, id porta quam. Sed id dolor
-                            consectetur fermentum nibh volutpat, accumsan purus.
-                        </div>
-
-                        <div class="post-prev-more">
-                            <a href="" class="btn btn-mod btn-gray btn-round">Read More <i class="fa fa-angle-right"></i></a>
+                        Come see the projects undertaken by Cornell Engineers and meet the brains behind them! 
                         </div>
 
                     </div>
                     <!-- End Post Item -->
 
-                    <!-- Post Item -->
+                    <!-- Post Item 
                     <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">
 
                         <div class="post-prev-img">
@@ -455,7 +450,7 @@ $title = "Home";
                     </div>
                     <!-- End Post Item -->
 
-                    <!-- Post Item -->
+                    <!-- Post Item 
                     <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.3s" data-wow-duration="2s">
 
                         <div class="post-prev-img">
@@ -489,12 +484,12 @@ $title = "Home";
         <!-- End Blog Section -->
 
 
-        <!-- Contact Section -->
+        <!-- Real Footer Section -->
         <section class="page-section" id="contact">
             <div class="container relative">
 
                 <h2 class="section-title font-alt mb-70 mb-sm-40">
-                    Find Us
+                    Contact Us
                 </h2>
 
                 <div class="row">
@@ -502,21 +497,21 @@ $title = "Home";
                     <div class="col-md-8 col-md-offset-2">
                         <div class="row">
 
-                            <!-- Phone -->
+                            <!-- Email -->
                             <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
                                 <div class="contact-item">
                                     <div class="ci-icon">
-                                        <i class="fa fa-phone"></i>
+                                        <i class="fa fa-envelope"></i>
                                     </div>
                                     <div class="ci-title font-alt">
-                                        Call Us
+                                        Email
                                     </div>
                                     <div class="ci-text">
-                                        +61 3 8376 6284
+                                        <a href="mailto:ecaft@cornell.edu">ecaft@cornell.edu</a>
                                     </div>
                                 </div>
                             </div>
-                            <!-- End Phone -->
+                            <!-- End Email -->
 
                             <!-- Address -->
                             <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
@@ -534,21 +529,23 @@ $title = "Home";
                             </div>
                             <!-- End Address -->
 
-                            <!-- Email -->
+                            <!-- Facebook -->
                             <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
                                 <div class="contact-item">
                                     <div class="ci-icon">
-                                        <i class="fa fa-envelope"></i>
+                                        <i class="fa fa-facebook"></i>
                                     </div>
                                     <div class="ci-title font-alt">
-                                        Email
+                                        Facebook
                                     </div>
                                     <div class="ci-text">
-                                        <a href="mailto:support@bestlooker.pro">support@bestlooker.pro</a>
+                                        <a href="https://www.facebook.com/ECaFT/?epa=SEARCH_BOX">Like Us</a>
                                     </div>
                                 </div>
                             </div>
-                            <!-- End Email -->
+                            <!-- End Facebook -->
+
+                            
 
                         </div>
                     </div>
@@ -560,17 +557,17 @@ $title = "Home";
         <!-- End Contact Section -->
 
 
-        <!-- Foter -->
+        <!-- Footer --
         <footer class="page-section bg-gray-lighter footer pb-60">
             <div class="container">
 
-                <!-- Footer Logo -->
+                <!-- Footer Logo --
                 <div class="local-scroll mb-30 wow fadeInUp" data-wow-duration="1.5s">
                     <a href="#top"><img src="images/logo-footer.png" width="78" height="36" alt="" /></a>
                 </div>
                 <!-- End Footer Logo -->
 
-                <!-- Social Links -->
+                <!-- Social Links --
                 <div class="footer-social-links mb-110 mb-xs-60">
                     <a href="#" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
                     <a href="#" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -580,30 +577,30 @@ $title = "Home";
                 </div>
                 <!-- End Social Links -->
 
-                <!-- Footer Text -->
+                <!-- Footer Text --
                 <div class="footer-text">
 
-                    <!-- Copyright -->
+                    <!-- Copyright --
                     <div class="footer-copy font-alt">
                         <a href="http://themeforest.net/user/theme-guru/portfolio" target="_blank">&copy; Rhythm 2017</a>.
                     </div>
-                    <!-- End Copyright -->
+                    <!-- End Copyright --
 
                     <div class="footer-made">
                         Made with love for great people.
                     </div>
 
                 </div>
-                <!-- End Footer Text -->
+                <!-- End Footer Text --
 
             </div>
 
 
-            <!-- Top Link -->
+            <!-- Top Link --
             <div class="local-scroll">
                 <a href="#top" class="link-to-top"><i class="fa fa-caret-up"></i></a>
             </div>
-            <!-- End Top Link -->
+            <!-- End Top Link --
 
         </footer>
         <!-- End Foter -->

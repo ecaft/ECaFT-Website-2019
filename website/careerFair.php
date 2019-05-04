@@ -223,41 +223,78 @@ $title = "Career Fair";
          </div>
          <!-- Page Wrap -->
          <!-- End Row -->
-         <!-- Fo0ter -->
-         <footer class="page-section bg-gray-lighter footer pb-60">
-            <div class="container">
-               <!-- Footer Logo -->
-               <div class="local-scroll mb-30 wow fadeInUp" data-wow-duration="1.5s">
-                  <a href="#top"><img src="images/logo-footer.png" width="78" height="36" alt="" /></a>
-               </div>
-               <!-- End Footer Logo -->
-               <!-- Social Links -->
-               <div class="footer-social-links mb-110 mb-xs-60">
-                  <a href="#" title="Facebook" target="https://www.facebook.com/ECaFT"><i class="fa fa-facebook"></i></a>
-                  <a href="#" title="Twitter" target="https://twitter.com/ECaFT"><i class="fa fa-twitter"></i></a>
-                  <a href="#" title="LinkedIn+" target="https://www.linkedin.com/company/cornell-engineering-career-fair-team/about/"><i class="fa fa-linkedin"></i></a>
-               </div>
-               <!-- End Social Links -->
-               <!-- Footer Text -->
-               <div class="footer-text">
-                  <!-- Copyright -->
-                  <div class="footer-copy font-alt">
-                     <a href="http://themeforest.net/user/theme-guru/portfolio" target="_blank">&copy; Rhythm 2017</a>.
-                  </div>
-                  <!-- End Copyright -->
-                  <div class="footer-made">
-                     Made with love for great people.
-                  </div>
-               </div>
-               <!-- End Footer Text -->
+      <!-- Real Footer Section -->
+        <section class="page-section" id="contact">
+            <div class="container relative">
+
+                <h2 class="section-title font-alt mb-70 mb-sm-40">
+                    Contact Us
+                </h2>
+
+                <div class="row">
+
+                    <div class="col-md-8 col-md-offset-2">
+                        <div class="row">
+
+                            <!-- Email -->
+                            <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                                <div class="contact-item">
+                                    <div class="ci-icon">
+                                        <i class="fa fa-envelope"></i>
+                                    </div>
+                                    <div class="ci-title font-alt">
+                                        Email
+                                    </div>
+                                    <div class="ci-text">
+                                        <a href="mailto:ecaft@cornell.edu">ecaft@cornell.edu</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Email -->
+
+                            <!-- Address -->
+                            <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                                <div class="contact-item">
+                                    <div class="ci-icon">
+                                        <i class="fa fa-map-marker"></i>
+                                    </div>
+                                    <div class="ci-title font-alt">
+                                        Address
+                                    </div>
+                                    <div class="ci-text">
+                                        245 Quigley Blvd, Ste K
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Address -->
+
+                            <!-- Facebook -->
+                            <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                                <div class="contact-item">
+                                    <div class="ci-icon">
+                                        <i class="fa fa-facebook"></i>
+                                    </div>
+                                    <div class="ci-title font-alt">
+                                        Facebook
+                                    </div>
+                                    <div class="ci-text">
+                                        <a href="https://www.facebook.com/ECaFT/?epa=SEARCH_BOX">Like Us</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Facebook -->
+
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+
             </div>
-            <!-- Top Link -->
-            <div class="local-scroll">
-               <a href="#top" class="link-to-top"><i class="fa fa-caret-up"></i></a>
-            </div>
-            <!-- End Top Link -->
-         </footer>
-         <!-- End Foter -->
+        </section>
+        <!-- End Contact Section -->
+
       </div>
       <!-- End Page Wrap -->
       <!-- JS -->
