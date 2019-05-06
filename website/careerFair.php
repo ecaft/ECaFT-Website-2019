@@ -17,11 +17,11 @@ $title = "Career Fair";
    <!-- Navigation panel -->
    <?php include("includes/navbar.php") ?>
    <!-- Head Section -->
-   <section class="small-section bg-dark-lighter">
+   <section class="small-section bg-dark-lighter" data-background="careerFair.jpg">
       <div class="relative container align-left">
          <div class="row">
             <div class="col-md-8">
-               <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Employer Information Career Fair</h1>
+               <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Employer Career Fair Info</h1>
             </div>
          </div>
       </div>
@@ -31,7 +31,7 @@ $title = "Career Fair";
       <div class="relative container align-left">
          <div class="row">
             <div class="col-md-8">
-               <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">WELCOME EMPLOYERS TO THE ENGINEERING AND TECHNICAL CAREER FAIR!</h1>
+               <h1 class="section-title font-alt mb-70 mb-sm-40">WELCOME EMPLOYERS TO THE ENGINEERING AND TECHNICAL CAREER FAIR!</h1>
                <div class="hs-line-4 font-alt black">
                   The Cornell Engineering Career Fair Team welcomes you to Cornell! We hope you find your visit enjoyable. Please feel free to reach out to us at ecaft@cornell.edu if you have any questions.
                </div>
@@ -47,7 +47,10 @@ $title = "Career Fair";
    <!-- Divider -->
    <hr class="mb-70 mb-xs-30" />
    <!-- End Divider -->
-   <h2 class="section-title font-alt">
+   <!-- Divider -->
+   <hr class="mb-70 mb-xs-30" />
+   <!-- End Divider -->
+   <h2 class="section-title font-alt black">
       Shipping Address
    </h2>
    <div class="container relative">
@@ -56,21 +59,21 @@ $title = "Career Fair";
          <div class="col-sm-12 body">
             <div class="align-center">
                <div class="alt-features-descr align-left">
-                  <p>Materials must reach the address below by Friday, February 2, 2020. We cannot guarantee that materials received after this date, shipped to an address other than the storage facility, or not marked as indicated will be available for use at the Career Fair.</p>
-                  <div class="well well-lg">
+                  <p><br>Materials must reach the address below by Friday, February 2, 2020. We cannot guarantee that materials received after this date, shipped to an address other than the storage facility, or not marked as indicated will be available for use at the Career Fair.</p>
+                  <div class="well col-lg-offset-3" style="width:45%">
                      <div class="align-left col-md-7 mb-sm-40">
-                        <span class="icon-map fa-lg" style="font-size: 20rem;"></span>
+                        <br> <span class="icon-map fa-lg" style="font-size: 14rem;"></span>
                      </div>
-                     <div class="text-center align-right col-lg-offset-1">
-                        <p>ECAFT CAREER FAIR 2020 [February 7, 2020]</p>
-                        <p>Attn: George Wood</p>
-                        <p>Cornell Recycle Center</p>
-                        <p>251 Solidage Rd.</p>
-                        <p>Ithaca, NY 14850</p>
+                     <div class="align-left col-lg-offset-1">
+                        <p> <br> <b> ECAFT CAREER FAIR 2020 [February 7, 2020] </b>
+                        <br>Attn: George Wood
+                        <br>Cornell Recycle Center
+                        <br>251 Solidage Rd.
+                        <br>Ithaca, NY 14850
                      </div>
                   </div>
-                  <p><b>IMPORTANT NOTE: Please write 2020 Spring Engineering and Technical Career Fair on all your packages. This will ensure that all packages are directed to the correct storage facility. The COMPANY NAME and CAREER FAIR DATE must also be included on each piece. We use the information marked on the outside of your package to locate packages and to ensure that materials are delivered to the correct booth, and for the correct event. We suggest packing return shipping labels in boxes. Packages will be delivered to Barton Hall by 7:00am the day of the fair.</b></p>
-                  <h3>Return Shipping</h3>
+                  <p><b><br>IMPORTANT NOTE: Please write 2020 Spring Engineering and Technical Career Fair on all your packages. This will ensure that all packages are directed to the correct storage facility. The COMPANY NAME and CAREER FAIR DATE must also be included on each piece. We use the information marked on the outside of your package to locate packages and to ensure that materials are delivered to the correct booth, and for the correct event. We suggest packing return shipping labels in boxes. Packages will be delivered to Barton Hall by 7:00am the day of the fair.</b></p>
+                  <h3 class="black"> Return Shipping </h3>
                   <p>UPS and FedEx will be picking up packages from Barton Hall after the fair at <b>3:30pm</b>. Please refer to the shipping company websites for instructions of how to prepare your boxes for shipping. There are different requirements based on size of the box as well as desired speed of shipment. Please complete your prepaid shipping label according to these requirements; this will make sure that we can easily return your packages to you. For proper shipment, your packages must be securely closed with the prepaid labels accurately filled out and firmly affixed.</p>
                </div>
             </div>
@@ -80,9 +83,9 @@ $title = "Career Fair";
    <!-- Divider -->
    <hr class="mb-70 mb-xs-30" />
    <!-- End Divider -->
-   <h3 class="section-title font-alt">
-      Schedule
-   </h3>
+   <h2 class="section-title font-alt black">
+      Schedule <br>
+   </h2>
    <div class="container relative">
       <!-- Row -->
       <div class="row">
@@ -116,31 +119,31 @@ $title = "Career Fair";
                <p>If you are sending several recruiters to the event we highly advise that you ask them to wear name-tags stating which department they are from (for example, the BEE division or MechE division). This will save both your time and the students' time. In past career fairs we've had several students wait in line only to realize that they were waiting to speak to the wrong representative.</p>
             </div>
          </div>
-         <!-- End Row -->
       </div>
+      <!-- End Row -->
       <!-- Divider -->
       <hr class="mb-70 mb-xs-30" />
       <!-- End Divider -->
-      <h4 class="section-title font-alt">
-         Travel Accommodations/Dinning
-      </h4>
+      <h2 class="section-title font-alt black">
+         Travel Accommodations/Dinning <br>
+      </h2>
       <div class="container relative">
          <!-- Row -->
          <div class="row">
             <div class="col-sm-12 body">
-               <h2>Travel to and from Ithaca</h2>
-               <p><a href="http://www.cornell.edu/visit/">Detailed information</a> is available on traveling to Ithaca by auto, air, bus or train. If you experience any travel delays that will affect your visit, please contact Engineering Career Center at <b>607-255-5006</b>.</p>
+               <h2 class="black"> Travel to and from Ithaca</h2>
+               <p> <a href="http://www.cornell.edu/visit/">Detailed information</a> is available on traveling to Ithaca by auto, air, bus or train. If you experience any travel delays that will affect your visit, please contact Engineering Career Center at <b>607-255-5006</b>.</p>
                <p>For those traveling from NYC we suggest using the <a href="https://ipp.cornell.edu/content/campus-campus-bus-service/">Campus-to-Campus</a> luxury bus service which travels twice daily between NYC and Cornell Ithaca Campus. The bus picks up in NYC at the Cornell Club, located near Grand Central and drops off at several locations on campus. The bus provides wireless Internet service, coffee and snacks as well as a conference table if you and your colleagues need to continue working.</p>
                <hr style="border: 0.1px solid#D3D3D3;" />
                <hr class="mb-40" />
                <hr style="border: 0.1px solid#D3D3D3;" />
-               <h2>Parking</h2>
-               <p>We will have approximently 100 parking permits avaible. However,
+               <h2 class = "black"> Parking</h2>
+               <p> We will have approximently 100 parking permits avaible. However,
                   we recommend the use of shuttle services made available by your hotel for your convenience. For specific information regarding parking, please refer to <a href="http://www.cornell.edu/visit/">Cornell's Vistor page</a>.
                </p>
                <hr class="mb-40" />
                <hr style="border: 0.1px solid#D3D3D3;" />
-               <h2>Accommodations</h2>
+               <h2 class = "black">Accommodations</h2>
                <!-- Accordion -->
                <div class="col-sm-100 mb-xs-40">
                   <dl class="accordion">
@@ -284,7 +287,7 @@ $title = "Career Fair";
                             </div>
                             <!-- End Facebook -->
 
-                            
+
 
                         </div>
                     </div>
