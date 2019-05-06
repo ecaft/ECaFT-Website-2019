@@ -21,7 +21,7 @@ if ($title == "Home") { ?>
       <div class="inner-nav desktop-nav">
         <ul class="clearlist">
           <?php if ($title == "Home") { ?>
-            <li><a class="active" hr e f="i n d e x . p hp ">Home</a></li>
+            <li><a class="active" href="index.php">Home</a></li>
           <?php } else { ?>
             <li><a href="index.php">Home</a></li>
           <?php }
@@ -44,7 +44,7 @@ if ($title == "Home") { ?>
                 <a href="careerFair.php">Employers</a>
               </li>
               <li>
-                <a href="careerFair.php">Students</a>
+                <a href="careerFair-student.php">Students</a>
               </li>
             </ul>
             <!-- End Sub -->
