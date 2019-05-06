@@ -262,7 +262,7 @@ $title = "Career Fair";
                                         Address
                                     </div>
                                     <div class="ci-text">
-                                        245 Quigley Blvd, Ste K
+                                    201 Carpenter Hall, Ithaca NY, 14853
                                     </div>
                                 </div>
                             </div>

@@ -31,7 +31,7 @@ $title = "About";
                     <div class="col-md-8">
                         <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">About Us</h1>
                         <div class="hs-line-4 font-alt black">
-                            We are the Eengineering Career Fair Team.
+                            We are the Engineering Career Fair Team.
                         </div>
                     </div>
 
@@ -1272,7 +1272,7 @@ $title = "About";
                                     Address
                                 </div>
                                 <div class="ci-text">
-                                    245 Quigley Blvd, Ste K
+                                201 Carpenter Hall, Ithaca NY, 14853
                                 </div>
                             </div>
                         </div>

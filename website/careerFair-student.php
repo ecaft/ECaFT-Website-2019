@@ -424,18 +424,87 @@ $title = "Career Fair Students";
         </section> -->
         <!-- End Features Section -->
 
+        <!-- Real Footer Section -->
+        <section class="page-section" id="contact">
+            <div class="container relative">
 
-        <!-- Foter -->
+                <h2 class="section-title font-alt mb-70 mb-sm-40">
+                    Contact Us
+                </h2>
+
+                <div class="row">
+
+                    <div class="col-md-8 col-md-offset-2">
+                        <div class="row">
+
+                            <!-- Email -->
+                            <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                                <div class="contact-item">
+                                    <div class="ci-icon">
+                                        <i class="fa fa-envelope"></i>
+                                    </div>
+                                    <div class="ci-title font-alt">
+                                        Email
+                                    </div>
+                                    <div class="ci-text">
+                                        <a href="mailto:ecaft@cornell.edu">ecaft@cornell.edu</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Email -->
+
+                            <!-- Address -->
+                            <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                                <div class="contact-item">
+                                    <div class="ci-icon">
+                                        <i class="fa fa-map-marker"></i>
+                                    </div>
+                                    <div class="ci-title font-alt">
+                                        Address
+                                    </div>
+                                    <div class="ci-text">
+                                        201 Carpenter Hall, Ithaca NY, 14853
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Address -->
+
+                            <!-- Facebook -->
+                            <div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+                                <div class="contact-item">
+                                    <div class="ci-icon">
+                                        <i class="fa fa-facebook"></i>
+                                    </div>
+                                    <div class="ci-title font-alt">
+                                        Facebook
+                                    </div>
+                                    <div class="ci-text">
+                                        <a href="https://www.facebook.com/ECaFT/?epa=SEARCH_BOX">Like Us</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Facebook -->
+
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+        <!-- Foter --
         <footer class="page-section bg-gray-lighter footer pb-60">
             <div class="container">
 
-                <!-- Footer Logo -->
+                <!-- Footer Logo --
                 <div class="local-scroll mb-30 wow fadeInUp" data-wow-duration="1.5s">
                     <a href="#top"><img src="images/logo-footer.png" width="78" height="36" alt="" /></a>
                 </div>
                 <!-- End Footer Logo -->
 
-                <!-- Social Links -->
+                <!-- Social Links --
                 <div class="footer-social-links mb-110 mb-xs-60">
                     <a href="#" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
                     <a href="#" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -445,31 +514,31 @@ $title = "Career Fair Students";
                 </div>
                 <!-- End Social Links -->
 
-                <!-- Footer Text -->
+                <!-- Footer Text --
                 <div class="footer-text">
 
-                    <!-- Copyright -->
+                    <!-- Copyright --
                     <div class="footer-copy font-alt">
                         <a href="http://themeforest.net/user/theme-guru/portfolio" target="_blank">&copy; Rhythm
                             2017</a>.
                     </div>
-                    <!-- End Copyright -->
+                    <!-- End Copyright --
 
                     <div class="footer-made">
                         Made with love for great people.
                     </div>
 
                 </div>
-                <!-- End Footer Text -->
+                <!-- End Footer Text --
 
             </div>
 
 
-            <!-- Top Link -->
+            <!-- Top Link --
             <div class="local-scroll">
                 <a href="#top" class="link-to-top"><i class="fa fa-caret-up"></i></a>
             </div>
-            <!-- End Top Link -->
+            <!-- End Top Link --
 
         </footer>
         <!-- End Foter -->

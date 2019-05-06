@@ -20,7 +20,7 @@ $title = "Home";
 
         <!-- Home Section -->
         <section class="home-section bg-dark-alfa-30 parallax-2" data-background="images/home-bg.jpg" id="home">
-            <div class="js-height-full container">
+            <div class="js-height-full container" style="text-align:left">
 
                 <!-- Hero Content -->
                 <div class="home-content">
@@ -34,15 +34,21 @@ $title = "Home";
                             <div class="hs-line-6">
                                 Extraordinary art studio &&nbsp;creative minimalism lovers
                             </div>-->
+                        
                         <div class="row text-center">
                             <div class="col-md-8 col-md-offset-2">
                                 <div class="block">
-                                    <!--<h1 class="home-title wow fadeInDown">ECAFT</h1>-->
+                                    <!--
+                                    <h1 class="home-title wow fadeInDown">ECAFT</h1>-->
                                     <img class="main-title wow fadeInDown" src="images/ecaft_logo.png" alt="ECaFT logo" style="height:140px; width:400px">
                                     <p class="title-small wow fadeInDown" data-wow-delay="0.3s" style="font-size:36px">Engineering Career Fair Team</p>
                                 </div>
                             </div>
                         </div>
+                        <!--
+                        <h1 style="margin-bottom:0px;text-align:left">We Are</h1>
+                        <h1 style="margin-top:0px;text-align:left">ECaFT</h1>
+-->
                     </div>
 
                 </div>
@@ -176,7 +182,7 @@ $title = "Home";
                         <a href="#service-graphic" data-toggle="tab">
 
                             <div class="alt-tabs-icon">
-                                <img src="images/finance/icon-3.jpg" style="width:46.5px"></img>
+                                <span class="icon-presentation"></span>
                             </div>
 
                             Project Showcase
@@ -523,7 +529,7 @@ $title = "Home";
                                         Address
                                     </div>
                                     <div class="ci-text">
-                                        245 Quigley Blvd, Ste K
+                                        201 Carpenter Hall, Ithaca NY, 14853
                                     </div>
                                 </div>
                             </div>
