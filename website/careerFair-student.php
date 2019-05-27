@@ -29,7 +29,7 @@ $title = "Career Fair Students";
                 <div class="row">
 
                     <div class="col-md-8">
-                        <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Career Fair</h1>
+                        <!-- <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Career Fair</h1> -->
                         <div class="hs-line-4 font-alt">
                             Cornell Students, Welcome to the Engineering Career Fair!
                         </div>
@@ -58,7 +58,8 @@ $title = "Career Fair Students";
                         <a href="#service-branding" data-toggle="tab">
 
                             <div class="alt-tabs-icon">
-                                <span class="icon-strategy"></span>
+                                <span class="icon-happy"></span>
+                                <!-- <span class="icon-strategy"></span> -->
                             </div>
 
                             Welcome
@@ -68,7 +69,8 @@ $title = "Career Fair Students";
                         <a href="#service-web-design" data-toggle="tab">
 
                             <div class="alt-tabs-icon">
-                                <span class="icon-desktop"></span>
+                                <span class="icon-briefcase"></span>
+                                <!-- <span class="icon-desktop"></span> -->
                             </div>
 
                             What to Bring
@@ -78,7 +80,8 @@ $title = "Career Fair Students";
                         <a href="#service-graphic" data-toggle="tab">
 
                             <div class="alt-tabs-icon">
-                                <span class="icon-tools"></span>
+                                <span class="icon-layers"></span>
+                                <!-- <span class="icon-tools"></span> -->
                             </div>
 
                             Attire
@@ -190,7 +193,7 @@ $title = "Career Fair Students";
 
                         <div class="section-text">
                             <div class="row">
-                                <div class="col-md-4 mb-md-40 mb-xs-30">
+                                <!-- <div class="col-md-4 mb-md-40 mb-xs-30">
                                     <blockquote class="mb-0">
                                         <p>
                                             Never fall in&nbsp;love with an&nbsp;idea. They&rsquo;re whores. If&nbsp;the
@@ -201,7 +204,7 @@ $title = "Career Fair Students";
                                             Chip Kidd
                                         </footer>
                                     </blockquote>
-                                </div>
+                                </div> -->
                                 <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
                                     Students must wear formal clothing to the career fair. It is important to look
                                     professional in front of employers. The formality of students’ attire can vary based
@@ -219,7 +222,8 @@ $title = "Career Fair Students";
                                         <li>Sweater (optional)</li>
                                         <li>Tie (optional)</li>
                                     </ul>
-
+                                <!-- </div> -->
+                                <!-- <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30"> -->
                                     The following are recommended for women:
                                     <ul>
                                         <li>Dress shirt/blouse</li>
@@ -227,7 +231,8 @@ $title = "Career Fair Students";
                                         <li>Slacks/Trousers/Dress pants</li>
                                         <li>Two-piece suit (optional)</li>
                                     </ul>
-
+                                </div>
+                                <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
                                     The following are not recommended:
                                     <ul>
                                         <li>Casual tops (hoodie, common branded sweatshirt, T-shirt)</li>
