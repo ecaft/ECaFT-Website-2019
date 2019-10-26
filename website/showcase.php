@@ -71,9 +71,7 @@ $title = "Showcase";
                         <br>
                         <strong>Duffield Hall </strong>
                         <br>
-                        <strong>Student Registration: </strong>
-                        <br>
-                        <strong>Employer Registration: </strong>
+                        <strong>Student Registration: https://docs.google.com/forms/d/e/1FAIpQLSeoI6FUlRtH-ni_7KMytDPfMkRG5O-1umb1IW4OhGC7QS7HRQ/viewform </strong>
 
                     </div>
                 </div>
