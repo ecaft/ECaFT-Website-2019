@@ -61,13 +61,13 @@ $title = "Showcase";
             </div>
 
             <h2 class="section-title font-alt mb-70 mb-sm-40">
-                Fall 2019 Project Showcase
+                Spring 2019 Project Showcase
             </h2>
 
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="section-text align-center mb-70 mb-xs-40">
-                        <strong>September 10th, 2019 4:30 PM - 6:30 PM </strong>
+                        <strong>February 4th, 2019 4:30 PM - 6:30 PM </strong>
                         <br>
                         <strong>Duffield Hall </strong>
                         <br>
@@ -262,7 +262,7 @@ $title = "Showcase";
                             </div>
                             <!-- End Facebook -->
 
-                            
+
 
                         </div>
                     </div>
