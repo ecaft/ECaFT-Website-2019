@@ -17,31 +17,48 @@ $title = "Career Fair";
    <!-- Navigation panel -->
    <?php include("includes/navbar.php") ?>
    <!-- Head Section -->
-   <section class="small-section bg-dark-lighter" data-background="careerFair.jpg">
-      <div class="relative container align-left">
-         <div class="row">
-            <div class="col-md-8">
-               <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Employer Career Fair Info</h1>
+   <section class="page-section bg-light-alfa-30" data-background="showcase.jpg">
+            <div class="relative container align-right">
+
+                <div class="row">
+
+                    <div class="col-md-8">
+                        <h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Career Fair</h1>
+                        <div class="hs-line-4 font-alt black">
+                            Employer Information
+                        </div>
+                    </div>
+
+                </div>
             </div>
-         </div>
-      </div>
-   </section>
+
+    </div>
+    </section>
    <!-- End Head Section -->
    <section class="small-section">
-      <div class="relative container align-left">
-         <div class="row">
-            <div class="col-md-8">
-               <h1 class="section-title font-alt mb-70 mb-sm-40">WELCOME EMPLOYERS TO THE ENGINEERING AND TECHNICAL CAREER FAIR!</h1>
-               <div class="hs-line-4 font-alt black">
-                  The Cornell Engineering Career Fair Team welcomes you to Cornell! We hope you find your visit enjoyable. Please feel free to reach out to us at ecaft@cornell.edu if you have any questions.
-               </div>
-            </div>
-            <div class="relative container align-right">
-               <div class="mt-40">
-                  <a href="#" class="btn btn-mod btn-large btn-round" display: inline-block target="#">Register for the Career Fair</a>
-               </div>
-            </div>
+      <div class="container relative">
+         <div class="align-center hs-line-4 font-alt black">WELCOME TO THE ENGINEERING AND TECHNICAL CAREER FAIR! 
+            <br>
+            February 5th, 2020 from 9 A.M. - 2 P.M.</div>
+         <br>
+         <h1 class="section-title font-alt mb-70 mb-sm-40">
+            We hope you find your visit enjoyable. Please look through the information on this page for details on shipping, schedule, parking, travel accommodations, and more. Please feel free to reach out to us at ecaft@cornell.edu if you have any questions.
+
+      
+      <!-- <div class="row"> -->
+                <!-- <div class="col-md-8 col-md-offset-2"> -->
+                    <div class="section-text align-center mb-70 mb-xs-40">
+                        <div class="mt-40">
+                           <a href="https://app.joinhandshake.com/career_fairs/13074" class="btn btn-mod btn-large btn-round" display: inline-block target="#">Register for the Career Fair</a>
+                        </div>                    
+                    </div>
+                <!-- </div> -->
+      <!-- </div> -->
+      <!-- <div class="container relative">
+         <div class="mt-40">
+            <a href="#" class="btn btn-mod btn-large btn-round" display: inline-block target="#">Register for the Career Fair</a>
          </div>
+      </div> -->
       </div>
    </section>
    <!-- Divider -->
@@ -125,7 +142,7 @@ $title = "Career Fair";
       <hr class="mb-70 mb-xs-30" />
       <!-- End Divider -->
       <h2 class="section-title font-alt black">
-         Travel Accommodations/Dinning <br>
+         Travel Accommodations <br>
       </h2>
       <div class="container relative">
          <!-- Row -->
@@ -134,15 +151,15 @@ $title = "Career Fair";
                <h2 class="black"> Travel to and from Ithaca</h2>
                <p> <a href="http://www.cornell.edu/visit/">Detailed information</a> is available on traveling to Ithaca by auto, air, bus or train. If you experience any travel delays that will affect your visit, please contact Engineering Career Center at <b>607-255-5006</b>.</p>
                <p>For those traveling from NYC we suggest using the <a href="https://ipp.cornell.edu/content/campus-campus-bus-service/">Campus-to-Campus</a> luxury bus service which travels twice daily between NYC and Cornell Ithaca Campus. The bus picks up in NYC at the Cornell Club, located near Grand Central and drops off at several locations on campus. The bus provides wireless Internet service, coffee and snacks as well as a conference table if you and your colleagues need to continue working.</p>
-               <hr style="border: 0.1px solid#D3D3D3;" />
-               <hr class="mb-40" />
-               <hr style="border: 0.1px solid#D3D3D3;" />
+               <!-- <hr style="border: 0.1px solid#D3D3D3;" /> -->
+               <!-- <hr class="mb-40" /> -->
+               <!-- <hr style="border: 0.1px solid#D3D3D3;" /> -->
                <h2 class = "black"> Parking</h2>
                <p> We will have approximently 100 parking permits avaible. However,
                   we recommend the use of shuttle services made available by your hotel for your convenience. For specific information regarding parking, please refer to <a href="http://www.cornell.edu/visit/">Cornell's Vistor page</a>.
                </p>
-               <hr class="mb-40" />
-               <hr style="border: 0.1px solid#D3D3D3;" />
+               <!-- <hr class="mb-40" />
+               <hr style="border: 0.1px solid#D3D3D3;" /> -->
                <h2 class = "black">Accommodations</h2>
                <!-- Accordion -->
                <div class="col-sm-100 mb-xs-40">

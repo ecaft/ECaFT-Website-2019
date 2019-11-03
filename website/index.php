@@ -370,7 +370,7 @@ $title = "Home";
                                         Praesent sed nisi eleifend, fermentum orci amet, iaculis libero. 
                                     </div> -->
                                 <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30" style="width:50%">
-                                    <img src="images/resume_workshop_def.png" style="width:100%">
+                                    <img src="images/full-project-2.jpg" style="width:100%">
                                 </div>
 
                                 <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30" style="width:50%;">
@@ -395,7 +395,7 @@ $title = "Home";
         <!-- End Services Section -->
 
         <!-- Blog Section -->
-        <section class="page-section" id="news">
+        <!-- <section class="page-section" id="news">
             <div class="container relative">
 
                 <h2 class="section-title font-alt align-left mb-70 mb-sm-40">
@@ -405,17 +405,17 @@ $title = "Home";
 
                 </h2>
 
-                <div class="row multi-columns-row">
+                <div class="row multi-columns-row"> -->
 
                     <!-- Post Item -->
-                    <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s">
+                    <!-- <div class="col-sm-6 col-md-4 col-lg-4 mb-md-50 wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s">
 
                         <div class="post-prev-img">
                             <a href=""><img src="baja.jpg" alt="" /></a>
                         </div>
 
                         <div class="post-prev-title font-alt">
-                            <a href="">Fall Project Showcase</a>
+                            <a href="">Spring Project Showcase</a>
                         </div>
 
                         <div class="post-prev-info font-alt">
@@ -426,7 +426,7 @@ $title = "Home";
                         Come see the projects undertaken by Cornell Engineers and meet the brains behind them! 
                         </div>
 
-                    </div>
+                    </div> -->
                     <!-- End Post Item -->
 
                     <!-- Post Item 
@@ -483,10 +483,10 @@ $title = "Home";
                     </div>
                     <!-- End Post Item -->
 
-                </div>
+                <!-- </div>
 
             </div>
-        </section>
+        </section> -->
         <!-- End Blog Section -->
 
 

@@ -46,8 +46,16 @@ $title = "Showcase";
     <!-- Section -->
     <section class="page-section" id="about">
         <div class="container relative">
-
-            <h2 class="section-title font-alt mb-70 mb-sm-40">
+            <h1 class="section-title">Spring Project Showcase 2020</h1>
+            <h2 class="section-title font-alt mb-30 mb-xxs-10">
+                February 4th, 2020
+                <br>
+                4:30 - 6:30 P.M.
+                <br>
+                Duffield Hall </h2>
+            
+            <br>
+            <h2 class="section-title font-alt mb-30 mb-xxs-10">
                 What is it
             </h2>
 
@@ -56,23 +64,9 @@ $title = "Showcase";
                 <div class="col-md-8 col-md-offset-2">
                     <div class="section-text align-center mb-70 mb-xs-40">
                         Cornell Engineering students are working on creative solutions to a variety of engineering challenges. The Project Showcase is an opportunity to both see what these teams have been working on and to meet their members. From nanotechnology to water quality and from pharmaceuticals to semiconductors to robots, Cornell Engineering students are making valuable contributions to solving the challenges of our world.
-                    </div>
-                </div>
-            </div>
-
-            <h2 class="section-title font-alt mb-70 mb-sm-40">
-                Spring 2019 Project Showcase
-            </h2>
-
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <div class="section-text align-center mb-70 mb-xs-40">
-                        <strong>February 4th, 2019 4:30 PM - 6:30 PM </strong>
-                        <br>
-                        <strong>Duffield Hall </strong>
-                        <br>
-                        <strong>Student Registration: https://docs.google.com/forms/d/e/1FAIpQLSeoI6FUlRtH-ni_7KMytDPfMkRG5O-1umb1IW4OhGC7QS7HRQ/viewform </strong>
-
+                        <div class="mt-40">
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeoI6FUlRtH-ni_7KMytDPfMkRG5O-1umb1IW4OhGC7QS7HRQ/viewform" class="btn btn-mod btn-border btn-round btn-medium" target="_blank">Student Registeration</a>
+                            </div>                    
                     </div>
                 </div>
             </div>

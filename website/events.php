@@ -49,52 +49,14 @@ $title = "Events";
                         <!-- About Project -->
                         <div class="text">
 
-                            <h3 class="font-alt mb-30 mb-xxs-10">CORNELL ENGINEERING PROJECT SHOWCASE
-                                TUESDAY, FEBRUARY 5, 4:30 - 7:00 P.M.</h3>
+                            <h3 class="font-alt mb-30 mb-xxs-10">FREE PROFESSIONAL HEADSHOTS
+                            <br>
+                            FRIDAY, NOVEMBER 22,
+                            11:00 A.M. - 5:00 P.M.</h3>
 
                             <p>
-                                Cornell Engineering students are working on creative solutions to a variety of engineering challenges. The Project Showcase is an opportunity to
-                                both see what these teams have been working on and to meet their members. From nanotechnology to water quality and from pharmaceuticals to semiconductors
-                                to robots, Cornell Engineering students are making valuable contributions to solving the challenges of our world.
-                            </p>
-
-                            <div class="mt-40">
-                                <a href="#" class="btn btn-mod btn-border btn-round btn-medium" target="https://docs.google.com/forms/d/e/1FAIpQLScQ3jK-VDJjAioDOKG-d0eAY6vKTyf1avRdIHTu2xBee2MZIw/viewform">Express Interest</a>
-                            </div>
-
-                        </div>
-                        <!-- End About Project -->
-
-
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Section -->
-
-
-        <!-- Divider -->
-        <hr class="mt-0 mb-0 " />
-        <!-- End Divider -->
-
-
-        <!-- Section -->
-        <section class="page-section">
-            <div class="container relative">
-
-                <div class="row">
-
-                    <div class="col-md-5 col-lg-4 mb-sm-40">
-
-                        <!-- About Project -->
-                        <div class="text">
-
-                            <h3 class="font-alt mb-30 mb-xxs-10">CORNELL SOCIETY OF WOMEN ENGINEERS NETWORKING DINNER
-                                DATE: TBA</h3>
-                            <p>
-                                The Cornell Society of Women Engineers will be hosting the Spring 2018 Professional Networking Dinner. Your representatives will be presented with an opportunity to meet and speak to our Undergraduate, Master's and Ph.D. students in this unique networking opportunity.
-                                The event will be held on Tuesday, February 6th at The Statler Hotel Grand Ballroom, the evening before the Career Fair. Register in advance.
-                            </p>
+                            Cornell Engineering Career Fair Team is sponsoring free headshots for all Cornell students in preparation for the 2020 Spring Career Fair!
+                            Register in advance.</p>
 
                             <div class="mt-40">
                                 <a href="#" class="btn btn-mod btn-border btn-round btn-medium" target="_blank">Register</a>
@@ -103,83 +65,75 @@ $title = "Events";
                         </div>
                         <!-- End About Project -->
 
-                    </div>
-
-
-                    <div class="col-md-7 col-lg-offset-1">
-
-                        <!-- Work Gallery -->
-                        <div class="work-full-media mt-0 white-shadow">
-                            <ul class="clearlist work-full-slider owl-carousel">
-                                <li>
-                                    <img src="images/full-project-2.jpg" alt="" />
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- End Work Gallery -->
 
                     </div>
-
-
-
                 </div>
-
             </div>
         </section>
         <!-- End Section -->
 
 
         <!-- Divider -->
-        <hr class="mt-0 mb-0 " />
+        <!-- <hr class="mt-0 mb-0 " /> -->
         <!-- End Divider -->
 
 
         <!-- Section -->
-        <section class="page-section" id="start">
+        <!-- <section class="page-section">
             <div class="container relative">
 
                 <div class="row">
 
-                    <div class="col-md-7 mb-sm-40">
-
-                        <!-- Gallery -->
-                        <div class="work-full-media mt-0 white-shadow">
-                            <ul class="clearlist work-full-slider owl-carousel">
-                                <li>
-                                    <img src="images/full-project-3.jpg" alt="" />
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- End Gallery -->
-
-                    </div>
-
-                    <div class="col-md-5 col-lg-4 col-lg-offset-1">
+                    <div class="col-md-5 col-lg-4 mb-sm-40"> -->
 
                         <!-- About Project -->
-                        <div class="text">
+                        <!-- <div class="text">
 
-                            <h3 class="font-alt mb-30 mb-xxs-10">ON-CAMPUS INTERVIEW SCHEDULES
-                                THURSDAY AND FRIDAY, FEBRUARY 7 & 8, 8:30 – 4:30 P.M.</h3>
-
+                            <h3 class="font-alt mb-30 mb-xxs-10">FREE PROFESSIONAL HEADSHOTS
+                                FRIDAY, NOVEMBER 22, 11:00 A.M. - 5:00 P.M.</h3>
                             <p>
-                                Limited space is available to interview students in the two days following the fair. Request a room today.
+                                Cornell Engineering Career Fair Team is sponsoring free headshots for all Cornell students in preparation for the 2020 Spring Career Fair!
+                                Register in advance
                             </p>
 
                             <div class="mt-40">
-                                <a href="#" class="btn btn-mod btn-border btn-round btn-medium" target="_blank">Request</a>
+                                <a href="#" class="btn btn-mod btn-border btn-round btn-medium" target="_blank">Register</a>
                             </div>
 
-                        </div>
+                        </div> -->
                         <!-- End About Project -->
 
+                    <!-- </div>
+
+
+                    <div class="col-md-7 col-lg-offset-1"> -->
+
+                        <!-- Work Gallery -->
+                        <!-- <div class="work-full-media mt-0 white-shadow">
+                            <ul class="clearlist work-full-slider owl-carousel">
+                                <li>
+                                    <img src="images/full-project-2.jpg" alt="" />
+                                </li>
+                            </ul>
+                        </div> -->
+                        <!-- End Work Gallery -->
+<!-- 
                     </div>
+
+
+
                 </div>
+
             </div>
-        </section>
+        </section> -->
         <!-- End Section -->
 
 
+        <!-- Divider -->
+        <!-- <hr class="mt-0 mb-0 " /> -->
+        <!-- End Divider -->
+
+   
         <!-- Divider -->
         <hr class="mt-0 mb-0 " />
         <!-- End Divider -->
