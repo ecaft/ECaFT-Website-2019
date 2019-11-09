@@ -23,7 +23,7 @@ $title = "About";
 
 
         <!-- Head Section -->
-        <section class="page-section bg-light-alfa-30" data-background="images/teamphoto.jpg">
+        <section class="page-section bg-light-alfa-30" data-background="images/team_leads19.jpg">
             <div class="relative container align-left">
 
                 <div class="row">
@@ -110,7 +110,7 @@ $title = "About";
 
                             <div class="team-item-image">
 
-                                <img src="images/headshot/Yubin_Kim.jpg" alt="" />
+                                <img src="images/headshot/yubin_kim.jpg" alt="" />
 
                                 <div class="team-item-detail">
 

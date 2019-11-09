@@ -114,7 +114,7 @@ $title = "Home";
                             Our goal is to empower and engage the Cornell community by connecting employers to students and improving students' professional development skills through our workshops, career fair prep events, and outreach events.
                         </div>
 
-                        <img src="images/team_photo2018.jpg" style="display:block; margin-top:70px; width:50%; margin-left:auto; margin-right:auto">
+                        <img src="images/team_photo2019.jpg" style="display:block; margin-top:70px; width:50%; margin-left:auto; margin-right:auto">
 
                         <!-- <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
                                 Etiam sit amet fringilla lacus. Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. Praesent sed nisi eleifend, fermentum orci amet, iaculis libero. Donec vel ultricies purus. Nam dictum sem, eu aliquam.
@@ -308,7 +308,7 @@ $title = "Home";
                                 <div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30" style="width:50%;">
                                     <div>Also known as the "reverse career fair", the Project Showcase offers recruiters the chance to learn about the impressive projects undertaken by Cornell Engineers and the bright minds behind them. </div>
                                     <div style="text-align: left">
-                                        <a href="showcase.php" style="text-align: left" class="section-more font-alt">More about the Project Showcase <i class="fa fa-angle-right"></i></a>
+                                        <a href="images/projshowcase19.php" style="text-align: left" class="section-more font-alt">More about the Project Showcase <i class="fa fa-angle-right"></i></a>
                                     </div>
                                 </div>
                             </div>
