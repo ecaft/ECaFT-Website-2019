@@ -397,7 +397,7 @@ $title = "About";
 
                                 <div class="team-item-image">
 
-                                    <img src="images/headshot/New_Member.jpg" alt="" />
+                                    <img src="images/headshot/ling_cao.jpg" alt="" />
 
                                     <div class="team-item-detail">
 
@@ -1064,7 +1064,7 @@ $title = "About";
 
                                                 <div class="team-item-image">
 
-                                                    <img src="images/headshot/New_Member.jpg" alt="" />
+                                                    <img src="images/headshot/kai_zhou.jpg" alt="" />
 
                                                     <div class="team-item-detail">
 
