@@ -110,9 +110,13 @@ $title = "Career Fair";
          <div class="col-sm-4 mb-40">
             <div class="text">
                <h5 class="uppercase">Day</h5>
-               <p> 7:30 AM - Registration </p>
-               <p> 9:00 AM - Career Fair Starts! </p>
+               <p> 7:00 - 9:00 AM : Check In </p>
+               <p> 7:30 AM : Parking Booths Open </p>
+               <p> 7:30 - 9:00 AM : Breakfast </p>
+               <p> 9:00 AM - Career Fair Begins </p>
+               <p>> 12:00 - 1:30 PM : Lunch Served </p>
                <p> 2:00 PM - Career Fair Ends </p>
+               <p> 3:00 PM - FEDEX & UPS Arrival </p>
             </div>
          </div>
          <!-- End Col -->
