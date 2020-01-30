@@ -128,7 +128,7 @@ $title = "Career Fair";
                <p> Pick up complementary parking permits at Hoy Road Parking Garage </p>
                <p> Buffet Style meals will be on-site in Barton Hall. Coffee is served all day! </p>
                <p> ECaFT members will assist you with anything you may need during the Career Fair </p>
-               <p> Buffet Style meals will be prepared on-site in Barton Hall. If you would like a boxed lunch, contact ECaFT members </p>
+               <p> Buffet Style meals will be on-site in Barton Hall. If you would like a boxed lunch, contact ECaFT members </p>
                <p> To schedule another campus interview date, please contact Jennifer Soprano
                <p> UPS, FedEx Express, and FedEx Ground will be picking up packages from Barton Hall </p>
             </div>
